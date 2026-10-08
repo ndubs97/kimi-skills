@@ -1,0 +1,357 @@
+{
+  "addyosmani-agent-skills": {
+    "file": "packages/addyosmani-agent-skills.skill",
+    "sha256": "e3b918635afa995b1515b48bd0ce641be045a4465fbe6ce4736691ea159ca3c3",
+    "size": 678026
+  },
+  "agent-reach": {
+    "file": "packages/agent-reach.skill",
+    "sha256": "f4ae4228899b03934161436ccf5c8df23099905b50120a1b8d0af6c109788f7e",
+    "size": 675992
+  },
+  "ai-research-skills": {
+    "file": "packages/ai-research-skills.skill",
+    "sha256": "2e09a439b5cb79ddf2dc761dcd85c9d1fba633b648c0ce3e735a8b9fc784a796",
+    "size": 18729209
+  },
+  "alirezarezvani-claude-skills": {
+    "file": "packages/alirezarezvani-claude-skills.skill",
+    "sha256": "7ba04d8a721ffda11cb07adc494d45a9ce9297f2d2d5eeff11c7a6e0944b19ac",
+    "size": 44876637
+  },
+  "anthropics-skills": {
+    "file": "packages/anthropics-skills.skill",
+    "sha256": "c4c2a07455108036bb38641317d97fa05f05c1f7cc9942f789b097b2c8701e3d",
+    "size": 4290009
+  },
+  "baoyu-skills": {
+    "file": "packages/baoyu-skills.skill",
+    "sha256": "84966d2488e6596556fecc9344ab5355177adebf8db42b80fa16afa4dff9f3a4",
+    "size": 21298754
+  },
+  "billion-context": {
+    "file": "packages/billion-context.skill",
+    "sha256": "bb51272c542ef1230a24b44680f9b77912ee087a341375ba75c51308fa1f312a",
+    "size": 7310193
+  },
+  "brag": {
+    "file": "packages/brag.skill",
+    "sha256": "7b7c211c73c9dbccb6645bdf4075fca7adbbb4d3e051f1de65c9886821bf10c3",
+    "size": 92444136
+  },
+  "bumblebee": {
+    "file": "packages/bumblebee.skill",
+    "sha256": "3f76066e9b5d488679553ba94d4563e036fc064dff5a72f61c76455d047e2b75",
+    "size": 2897533
+  },
+  "career-ops": {
+    "file": "packages/career-ops.skill",
+    "sha256": "bf99701eeadb59821f541f58401dde6d0ac4a4648688e62fa2aea6e618646893",
+    "size": 43437854
+  },
+  "caveman": {
+    "file": "packages/caveman.skill",
+    "sha256": "588f126e4f30702a8fb10b2a3a36062e0ba26a7fd076b7399493e1327541c4c8",
+    "size": 135358
+  },
+  "claude-mem": {
+    "file": "packages/claude-mem.skill",
+    "sha256": "f2bd43dc04e3e34fdd4e815962f8ce3de65fd95f04f272893a9ce181fd02ff06",
+    "size": 18365844
+  },
+  "deepwiki-mcp": {
+    "file": "packages/deepwiki-mcp.skill",
+    "sha256": "63bf1dbad7958d777dac0b9d449d8ca613e3cae579a54aaa1d33ef28e9c6e0c3",
+    "size": 3428113
+  },
+  "diagram-design": {
+    "file": "packages/diagram-design.skill",
+    "sha256": "e9ce728f354f1a578fd955e05d4ac314622289687e597f99d31420b63c83f42e",
+    "size": 13902376
+  },
+  "distilly": {
+    "file": "packages/distilly.skill",
+    "sha256": "c053ec72e3d62b73e39c65abd3be56dba82b5b17c0b9809c742930c222f04cdf",
+    "size": 885457
+  },
+  "e2e": {
+    "file": "packages/e2e.skill",
+    "sha256": "71b700fd9898ff9fe8d01beaf04754edde5bbf6e4cdb3dce37b11a23a4c2f2e1",
+    "size": 11387150
+  },
+  "exa-mcp": {
+    "file": "packages/exa-mcp.skill",
+    "sha256": "f69490e98e6980142448ddbe9d4a8677ea90b8907071674576ea41b1422eeafa",
+    "size": 180981
+  },
+  "firecrawl-mcp": {
+    "file": "packages/firecrawl-mcp.skill",
+    "sha256": "dfed957318406d80ddd6954196a584bb43f338cb5e2b383b654964c096a32cc4",
+    "size": 3131647
+  },
+  "freellmapi": {
+    "file": "packages/freellmapi.skill",
+    "sha256": "8c91d1c20a4b1e1054e6ab78c777e7a22ce3480d36a327a43004c7abb6d82f00",
+    "size": 8291565
+  },
+  "gptcache": {
+    "file": "packages/gptcache.skill",
+    "sha256": "b3d09d627d93cea59c79323fd7007ebbc127d88e6c39bca5d0df7f7df9b3d956",
+    "size": 17667630
+  },
+  "hackingtool": {
+    "file": "packages/hackingtool.skill",
+    "sha256": "ab1ff56c705d6cf5db6c366cff0ebb142244e9daae1f1e00e3e3c4d2be112e63",
+    "size": 1978630
+  },
+  "hallmark": {
+    "file": "packages/hallmark.skill",
+    "sha256": "f63e16fa0d9c3423a17cd9ed3322c75dee324b85793f0d9cb7a99920f7ead281",
+    "size": 319849
+  },
+  "handoff": {
+    "file": "packages/handoff.skill",
+    "sha256": "9dc22dc57497d3ff229e5079d578bab16bb4a4e458f9d685860ccc7a93890f40",
+    "size": 3939
+  },
+  "html-anything": {
+    "file": "packages/html-anything.skill",
+    "sha256": "6ead42fb271b671f1f4a45530df29fbaac59a23765211b402af6b4071fd1f43c",
+    "size": 15582200
+  },
+  "hyperframes": {
+    "file": "packages/hyperframes.skill",
+    "sha256": "40f26e6b825fe9adc2f783326be7afbd6c5290110a0c44166481da691686a687",
+    "size": 14938997
+  },
+  "i-have-adhd": {
+    "file": "packages/i-have-adhd.skill",
+    "sha256": "180d7b9bdf9941349fefc54609d25a1e2eb4e4e4cdee0bdb4e712712b6706ba3",
+    "size": 269651
+  },
+  "jeffallan-claude-skills": {
+    "file": "packages/jeffallan-claude-skills.skill",
+    "sha256": "29494598d0d90009769e2327b63030228543f535a8ec72095f924946fcea6515",
+    "size": 2503777
+  },
+  "karpathy-guidelines": {
+    "file": "packages/karpathy-guidelines.skill",
+    "sha256": "16565c949c180e53dd505696f08da8db6b433d8784244d2cceb5c326a76d19d9",
+    "size": 3107
+  },
+  "llm-compressor": {
+    "file": "packages/llm-compressor.skill",
+    "sha256": "98ed9d83ca667a7eeb66dea8891f6c367a599adaf569ad9a1ae5d2df1893fca5",
+    "size": 3565805
+  },
+  "llm4decompile": {
+    "file": "packages/llm4decompile.skill",
+    "sha256": "df17c8af548c8af9f44dd71e351426c95b45359d2dcb049fc54a87e56e879604",
+    "size": 4742
+  },
+  "llmlingua": {
+    "file": "packages/llmlingua.skill",
+    "sha256": "52ef3d87fbd6f92c825df2232084547d7bbe5506964de80e7dd8fdef05224c5c",
+    "size": 3873195
+  },
+  "marketingskills": {
+    "file": "packages/marketingskills.skill",
+    "sha256": "7386c4c56b73558cd433dbb6175e960e29ad421845f9cca402a365d79edbd3d7",
+    "size": 1758747
+  },
+  "markitdown": {
+    "file": "packages/markitdown.skill",
+    "sha256": "a3eaca4d1d3cf91733fe2c1062d305f49555f95381b60903449b71af9c759ab3",
+    "size": 6235862
+  },
+  "mattpocock-skills": {
+    "file": "packages/mattpocock-skills.skill",
+    "sha256": "16afe37aef502d6a223bac593c3f7dbd79919865ae7880674f0670c3c1a1278c",
+    "size": 372328
+  },
+  "mem0-mcp": {
+    "file": "packages/mem0-mcp.skill",
+    "sha256": "ec9edb7d8bca331cb4a5234da324621a5fbfdf24e65c6b7750c907a3d0b33544",
+    "size": 22787
+  },
+  "memu": {
+    "file": "packages/memu.skill",
+    "sha256": "496b8a5c946504f00e1166e95381590a0cf07f3f81bde2bc2abee77a3bd3431f",
+    "size": 12235922
+  },
+  "music-gen": {
+    "file": "packages/music-gen.skill",
+    "sha256": "2b64e26b989854c27c35520d50931b26759e87baa519fb1ae676b696afdff0be",
+    "size": 1877
+  },
+  "n8n-agent-skills": {
+    "file": "packages/n8n-agent-skills.skill",
+    "sha256": "5267a4423c21ec3017e93b197547aa945bf339dba255243f50b8420014dc31fe",
+    "size": 269046
+  },
+  "notebooklm-py": {
+    "file": "packages/notebooklm-py.skill",
+    "sha256": "dddfda4c66ac0db02c579e47b791e64a6e20bff08c496632aded547d296f90a6",
+    "size": 9613680
+  },
+  "numpy-gpt2": {
+    "file": "packages/numpy-gpt2.skill",
+    "sha256": "46257ff39d085fb91bd9fc665a2ea18137850a240e7db421445d180722540aa1",
+    "size": 568950
+  },
+  "obsidian-mind": {
+    "file": "packages/obsidian-mind.skill",
+    "sha256": "44f3ca5ab7b3b2f2b79ee528ce21f25f62a5b29b6d6bcac98a87dfcc191f0131",
+    "size": 5210466
+  },
+  "oh-my-openagent": {
+    "file": "packages/oh-my-openagent.skill",
+    "sha256": "36b49b1f73976be682513d98586087d5b5b89aafd84f9264d8b122307f5af2d9",
+    "size": 48390120
+  },
+  "oh-story-claudecode": {
+    "file": "packages/oh-story-claudecode.skill",
+    "sha256": "58c126b63b38897c14d80b9ac66050a79f092fb772ea8a5683a49f7d72195c95",
+    "size": 9605033
+  },
+  "open-design": {
+    "file": "packages/open-design.skill",
+    "sha256": "26729cd126a0d19b98ceba4e8667fc9d0be8b0203c146e65e2ef3ce1e7d756f1",
+    "size": 93489797
+  },
+  "openmontage": {
+    "file": "packages/openmontage.skill",
+    "sha256": "5664232f1503ecc81d5b24dffad0e8f2ca22595f12120e7fe08cba0a6fe6822d",
+    "size": 56080648
+  },
+  "openrig": {
+    "file": "packages/openrig.skill",
+    "sha256": "ed8dbb8f37b137c4ab54d910c52575d5d0fe3b019872613e91036aa358a14dce",
+    "size": 12587975
+  },
+  "pageindex": {
+    "file": "packages/pageindex.skill",
+    "sha256": "a372382b420df60f78108df3dc03aafb15d75bd3a98a012de37ce1ee3e4f601e",
+    "size": 27384384
+  },
+  "pipeline-agent-survival": {
+    "file": "packages/pipeline-agent-survival.skill",
+    "sha256": "6b1b0c87a4da416ba8338434e32a879717b644126eb435417b283dbc114a87cc",
+    "size": 1174
+  },
+  "pipeline-codebase-onboarding": {
+    "file": "packages/pipeline-codebase-onboarding.skill",
+    "sha256": "4bf4d508fe229b6606497729b57191d9f54765c5c2e686180ab31647bb440c18",
+    "size": 1236
+  },
+  "pipeline-content-factory": {
+    "file": "packages/pipeline-content-factory.skill",
+    "sha256": "a26b9f3bd0098b04e3a3c10151eeea7df641d58608cbbf7cbfa1cbe191eb710c",
+    "size": 1157
+  },
+  "pipeline-research-report": {
+    "file": "packages/pipeline-research-report.skill",
+    "sha256": "0b0ff1d9a87c3c93b6e3478aff7348623e5222ece3362e42e510954043fd22e2",
+    "size": 1411
+  },
+  "planning-with-files": {
+    "file": "packages/planning-with-files.skill",
+    "sha256": "7bd2c553c00f5071917a7d50556b80fee666500dc55af43967c1b8a8f6069a77",
+    "size": 25042788
+  },
+  "playwright-mcp": {
+    "file": "packages/playwright-mcp.skill",
+    "sha256": "12ff2d0dc3d510dae03df6e452eb9c1aa818d7a9032c3f8576451a8f1adadb74",
+    "size": 70303
+  },
+  "ponytail": {
+    "file": "packages/ponytail.skill",
+    "sha256": "0da671b20292c16c750daba3647f7503639f7ffb7617d4cf3e0244fc1a1bf607",
+    "size": 1173839
+  },
+  "prompt-master": {
+    "file": "packages/prompt-master.skill",
+    "sha256": "ab4797989ae232ac2b377d01db381c16e581fb3bcc0834997abea535572febf2",
+    "size": 33778
+  },
+  "quantum-sim": {
+    "file": "packages/quantum-sim.skill",
+    "sha256": "66d737310875355add4aa2bfdd6ffde970a47ae85ac9ac8071fc4ad4b575cc35",
+    "size": 2197
+  },
+  "rea": {
+    "file": "packages/rea.skill",
+    "sha256": "6c41c5f1be01215810576ab2e13ac6f4d2ffb0b02099b29a416ca2d4aa5df312",
+    "size": 4575
+  },
+  "repomix": {
+    "file": "packages/repomix.skill",
+    "sha256": "63b9f98c8a02a424612ffa4b8eb5fc276244918fa6b4e5e63b9ea1976d864d0c",
+    "size": 4967916
+  },
+  "scientific-agent-skills": {
+    "file": "packages/scientific-agent-skills.skill",
+    "sha256": "04c7bfee09f9751b7d9474f97ca4cc0da405553c5934fdb4fc0863a8c5250e1d",
+    "size": 10168308
+  },
+  "security-audit": {
+    "file": "packages/security-audit.skill",
+    "sha256": "7429cd1327dd294d9aa3e7082bf56d1fe147d50d6655b8f64b9d4137a8153762",
+    "size": 113012
+  },
+  "sentry-agent-skills": {
+    "file": "packages/sentry-agent-skills.skill",
+    "sha256": "cb0dadca226b657021f1263585b9bc8595bf566d8746dd5b40d3288a85f9711b",
+    "size": 387770
+  },
+  "sequential-thinking-mcp": {
+    "file": "packages/sequential-thinking-mcp.skill",
+    "sha256": "879f7d4bdea885b3e26c36ce93c316291bb775a7424687f5b11bb8431c939bf1",
+    "size": 14393
+  },
+  "skill-router": {
+    "file": "packages/skill-router.skill",
+    "sha256": "529ad77333d8ae469deaf973bf2c117b096ea83fb387d13ac363ac0370f1dcdb",
+    "size": 114612
+  },
+  "skill-seekers": {
+    "file": "packages/skill-seekers.skill",
+    "sha256": "f9cb0197dd1ce70d3ad2b64b1c90e1283b2242000d55211dea611c158b67e511",
+    "size": 14605680
+  },
+  "skill-test-suite": {
+    "file": "packages/skill-test-suite.skill",
+    "sha256": "d7b8aa3afae6a916705fad3a01516baab365c88dfff6950092fb47d696aa3bcb",
+    "size": 4034
+  },
+  "superpowers": {
+    "file": "packages/superpowers.skill",
+    "sha256": "b88735cdd21116e1990c293a9c23162612797eb7fa06ddc07042e8fedff6ae00",
+    "size": 754229
+  },
+  "tiny-gpt-lab": {
+    "file": "packages/tiny-gpt-lab.skill",
+    "sha256": "db5efc2242fca3a06e755db74d92ab583fc2cc70995238f0478b0bea688c352c",
+    "size": 3024
+  },
+  "understand-anything": {
+    "file": "packages/understand-anything.skill",
+    "sha256": "f2f2700221f91ef22a34ab5af826073f76d9622b6241322cb40ac5ef1bc1259d",
+    "size": 25439588
+  },
+  "vercel-agent-skills": {
+    "file": "packages/vercel-agent-skills.skill",
+    "sha256": "a006f5f148dc1616540968a77bf347917ecf2e9a11dd4ed63cf1386071888584",
+    "size": 604573
+  },
+  "video-shotcraft": {
+    "file": "packages/video-shotcraft.skill",
+    "sha256": "014deb63bbf7c5b063a2bb6a1e31dbd0316a3f3ff8d45f43ef6e7d4dae9927d9",
+    "size": 54513273
+  },
+  "wshobson-agents": {
+    "file": "packages/wshobson-agents.skill",
+    "sha256": "685f27926a410d05b7ea989136fd3e4779c7569bd63c205db8d607257bb045e1",
+    "size": 3326555
+  }
+}
